@@ -1,5 +1,10 @@
 # ↔️ Week08 Bootcamp2019a Project: Server-Side Palindrome Checker
 
+## Project Preview
+<img width="704" height="298" alt="Palindrome" src="https://github.com/user-attachments/assets/941e4cb0-8357-4add-aae1-e3f7f801819d" />
+
+
+
 ## My Palindrome Checker
 
 A simple web application that checks whether a word or phrase reads the same forward and backward.
